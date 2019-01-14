@@ -1,0 +1,3 @@
+[submodule "NetworkRequests"]
+	path = NetworkRequests
+	url = https://github.com/iGio90/NetworkRequests.git
